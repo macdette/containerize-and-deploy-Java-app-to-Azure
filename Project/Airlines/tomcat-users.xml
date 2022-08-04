@@ -42,9 +42,9 @@
 <role rolename="Admin"/>
 <role rolename="Customer"/>
 
-<user username="haris@admin.com" password="a" roles="Admin"/>
-<user username="haris@manager.com" password="m" roles="Manager"/>
-<user username="shariq@customer.com" password="c" roles="Customer"/>
+<user username="admin@admin.com" password="a" roles="Admin"/>
+<user username="manager@manager.com" password="m" roles="Manager"/>
+<user username="customer@customer.com" password="c" roles="Customer"/>
 <user password="admin" roles="manager-script,admin" username="admin"/>
 <user username="someuser@azure.com" password="password" roles="Customer"/>
 </tomcat-users>
